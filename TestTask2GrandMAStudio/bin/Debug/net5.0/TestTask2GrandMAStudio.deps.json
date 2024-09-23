@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TestTask2GrandMAStudio/1.0.0": {
+        "runtime": {
+          "TestTask2GrandMAStudio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestTask2GrandMAStudio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

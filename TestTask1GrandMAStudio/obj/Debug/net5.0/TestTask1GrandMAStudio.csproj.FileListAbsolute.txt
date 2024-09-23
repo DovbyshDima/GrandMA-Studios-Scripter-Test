@@ -1,0 +1,16 @@
+D:\System\Visual studio\C#\TestTask1GrandMAStudio\bin\Debug\net5.0\TestTask1GrandMAStudio.exe
+D:\System\Visual studio\C#\TestTask1GrandMAStudio\bin\Debug\net5.0\TestTask1GrandMAStudio.deps.json
+D:\System\Visual studio\C#\TestTask1GrandMAStudio\bin\Debug\net5.0\TestTask1GrandMAStudio.runtimeconfig.json
+D:\System\Visual studio\C#\TestTask1GrandMAStudio\bin\Debug\net5.0\TestTask1GrandMAStudio.runtimeconfig.dev.json
+D:\System\Visual studio\C#\TestTask1GrandMAStudio\bin\Debug\net5.0\TestTask1GrandMAStudio.dll
+D:\System\Visual studio\C#\TestTask1GrandMAStudio\bin\Debug\net5.0\ref\TestTask1GrandMAStudio.dll
+D:\System\Visual studio\C#\TestTask1GrandMAStudio\bin\Debug\net5.0\TestTask1GrandMAStudio.pdb
+D:\System\Visual studio\C#\TestTask1GrandMAStudio\obj\Debug\net5.0\TestTask1GrandMAStudio.csproj.AssemblyReference.cache
+D:\System\Visual studio\C#\TestTask1GrandMAStudio\obj\Debug\net5.0\TestTask1GrandMAStudio.GeneratedMSBuildEditorConfig.editorconfig
+D:\System\Visual studio\C#\TestTask1GrandMAStudio\obj\Debug\net5.0\TestTask1GrandMAStudio.AssemblyInfoInputs.cache
+D:\System\Visual studio\C#\TestTask1GrandMAStudio\obj\Debug\net5.0\TestTask1GrandMAStudio.AssemblyInfo.cs
+D:\System\Visual studio\C#\TestTask1GrandMAStudio\obj\Debug\net5.0\TestTask1GrandMAStudio.csproj.CoreCompileInputs.cache
+D:\System\Visual studio\C#\TestTask1GrandMAStudio\obj\Debug\net5.0\TestTask1GrandMAStudio.dll
+D:\System\Visual studio\C#\TestTask1GrandMAStudio\obj\Debug\net5.0\ref\TestTask1GrandMAStudio.dll
+D:\System\Visual studio\C#\TestTask1GrandMAStudio\obj\Debug\net5.0\TestTask1GrandMAStudio.pdb
+D:\System\Visual studio\C#\TestTask1GrandMAStudio\obj\Debug\net5.0\TestTask1GrandMAStudio.genruntimeconfig.cache
